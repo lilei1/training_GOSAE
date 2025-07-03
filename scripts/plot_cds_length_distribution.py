@@ -1,5 +1,9 @@
 #!/usr/bin/env python3
 
+#This is for caculate the CDS length distribution from a FASTA file and deceide which false positive sequence I have to pull out from NCBI
+#by Li Lei
+#2025-07-02
+#Berkley
 import argparse
 import matplotlib.pyplot as plt
 import numpy as np
